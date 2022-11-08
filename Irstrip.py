@@ -1,0 +1,1 @@
+print("aaaaaaaa       aaaaaaa            aaaaaa".replace("  "," "))
